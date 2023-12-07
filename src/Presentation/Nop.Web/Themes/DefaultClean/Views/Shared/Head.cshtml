@@ -9,7 +9,10 @@
     Layout ="";
     var themeName = await themeContext.GetWorkingThemeNameAsync();
     var supportRtl = await Html.ShouldUseRtlThemeAsync();
-
+	
+	if (supportRtl)
+		NopHtml.AppendCssFileParts($"~/Themes/font.css");
+		
     //add main CSS file
     NopHtml.AppendCssFileParts($"~/Themes/{themeName}/Content/css/styles{(supportRtl ? ".rtl" : "")}.css");
     
