@@ -75,7 +75,7 @@ body {
   max-width: 100%;
   overflow-x: hidden;
   background-color: #fff;
-  font: normal 14px Arial, Helvetica, sans-serif;
+  font: normal 14px 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
@@ -110,7 +110,7 @@ textarea, select {
 
 input, textarea, select, button {
   font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
@@ -687,7 +687,7 @@ label, label + * {
   /*override jQuery UI styles, do not delete doubled properties*/
   border-radius: 0;
   padding: 0;
-  font: normal 14px Arial, Helvetica, sans-serif;
+  font: normal 14px 'Vazir', Helvetica, sans-serif;
 }
 
 .ui-dialog:before {
@@ -1051,7 +1051,7 @@ label, label + * {
   /*override jQuery UI styles, do not delete doubled properties*/
   border-radius: 0;
   padding: 0;
-  font: normal 14px Arial, Helvetica, sans-serif;
+  font: normal 14px 'Vazir', Helvetica, sans-serif;
 }
 
 .ui-autocomplete li {
@@ -2697,7 +2697,7 @@ label, label + * {
   border: none;
   border-radius: 0;
   padding: 0;
-  font: normal 14px Arial, Helvetica, sans-serif;
+  font: normal 14px 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
@@ -6319,7 +6319,7 @@ label, label + * {
   border-radius: 0;
   background: none;
   padding: 0;
-  font: normal 14px Arial, Helvetica, sans-serif;
+  font: normal 14px 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
@@ -6457,7 +6457,7 @@ label, label + * {
   /*override jQuery UI styles, do not delete doubled properties*/
   line-height: normal;
   font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
@@ -6483,7 +6483,7 @@ label, label + * {
   /*override jQuery UI styles, do not delete doubled properties*/
   line-height: normal;
   font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Vazir', Helvetica, sans-serif;
   color: #777;
 }
 
